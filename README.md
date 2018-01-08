@@ -70,7 +70,7 @@ Pascal Schmidt (Raspberry Pi Setup, Python SQL- und Sensor-Implementierung, SQLi
 
 Lee Edwing Nguepedja (Implementierung REST Services, Apache Tomcat Setup, Webfrontend, Dokumentation) 
 
-Adil Sahiner (Präsentation, Value Proposition Canvas)
+Adil Sahiner (Präsentation, Value Proposition Canvas, Dokumentation)
 
 ## Durchführung
 ### Datenerhebung und -verarbeitung
